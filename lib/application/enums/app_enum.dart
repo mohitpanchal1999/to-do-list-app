@@ -1,0 +1,1 @@
+enum TaskStatusTyp {updateStatus,updateDetails}
